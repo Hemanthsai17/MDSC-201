@@ -1,2 +1,2 @@
-# MDSC-201
-Regression Methods
+# Regression Methods
+MDSC-201
